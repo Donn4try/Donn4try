@@ -55,7 +55,6 @@ Blade Template             57 hrs 9 mins   â–ˆâ–‘â–‘â–‘â–�
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
   </a>
   <img width="12" />
-  <a href="https://app.daily.dev/kimmyxpow"><img src="https://api.daily.dev/devcards/v2/7iThHcyatEBVnTBeYoZ1T.png?type=default&r=57e" width="235" alt="pow's Dev Card"/></a>
 </div>
 
 ###
