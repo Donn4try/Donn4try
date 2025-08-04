@@ -30,13 +30,7 @@ Thanks for stopping by!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Stats & Activity
-
-[![An image of @abnvlf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abnvlf)](https://holopin.io/@abnvlf)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" /> &nbsp; Just Random Activity
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
