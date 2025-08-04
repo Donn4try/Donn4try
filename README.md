@@ -2,9 +2,6 @@
 <!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
 <img src="https://media1.tenor.com/m/5bhkD9qAUTIAAAAd/time-agent-link-click.gif" width="900">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimmyxpow&style=for-the-badge"  />
-</div>
 
 ###
 
