@@ -1,6 +1,6 @@
 <!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
 <!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
-<img src="https://tenor.com/id/view/自由式英雄-gs.gif" width="900">
+<img src="[https://tenor.com/id/view/自由式英雄-gs.gif](https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif)" width="900">
 
 
 ###
