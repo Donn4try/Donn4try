@@ -29,5 +29,3 @@ Welcome to my GitHub profile! who loves exploring new technologies and building 
   </a>
   <img width="12" />
 </div>
-
-###
