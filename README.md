@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 <div align="center">
   <a href="https://open.spotify.com/user/31yjvauyoi2s5ygdd4tc2oleahly?si=JrhPy4k-SqCch8TUPW3a6g">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31py3qwahsl76foqwc5f55butple&count=5&unique=true"" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yjvauyoi2s5ygdd4tc2oleahly&unique=true"" alt="Spotify recently played"  />
   </a>
   <img width="12" />
 </div>
